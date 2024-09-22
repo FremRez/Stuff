@@ -1,0 +1,58 @@
+[
+    {
+        "nazwa": "tak",
+        "kategoria": "green",
+        "poczatek": "17:00",
+        "koniec": "18:00",
+        "dzien": "poniedzialek"
+    },
+    {
+        "nazwa": "tak",
+        "kategoria": "blue",
+        "poczatek": "17:00",
+        "koniec": "18:00",
+        "dzien": "poniedzialek"
+    },
+    {
+        "nazwa": "tak",
+        "kategoria": "red",
+        "poczatek": "17:00",
+        "koniec": "18:00",
+        "dzien": "wtorek"
+    },
+    {
+        "nazwa": "tak",
+        "kategoria": "red",
+        "poczatek": "17:00",
+        "koniec": "18:00",
+        "dzien": "sroda"
+    },
+    {
+        "nazwa": "tak",
+        "kategoria": "green",
+        "poczatek": "17:00",
+        "koniec": "18:00",
+        "dzien": "poniedzialek"
+    },
+    {
+        "nazwa": "tak",
+        "kategoria": "yellow",
+        "poczatek": "17:00",
+        "koniec": "18:00",
+        "dzien": "czwartek"
+    },
+    {
+        "nazwa": "tak",
+        "kategoria": "green",
+        "poczatek": "17:00",
+        "koniec": "18:00",
+        "dzien": "sobota"
+    },
+    {
+        "nazwa": "tak",
+        "kategoria": "red",
+        "poczatek": "17:00",
+        "koniec": "18:00",
+        "dzien": "sobota"
+    }
+]
