@@ -1,58 +1,86 @@
 [
     {
-        "nazwa": "tak",
-        "kategoria": "green",
-        "poczatek": "17:00",
-        "koniec": "18:00",
-        "dzien": "poniedzialek"
+        "nazwa":"Python",
+        "kategoria":"yellow",
+        "poczatek":"11:00",
+        "koniec":"13:00",
+        "dzien":"mon"
     },
     {
-        "nazwa": "tak",
-        "kategoria": "blue",
-        "poczatek": "17:00",
-        "koniec": "18:00",
-        "dzien": "poniedzialek"
+        "nazwa":"Minecraft",
+        "kategoria":"green",
+        "poczatek":"14:30",
+        "koniec":"15:30",
+        "dzien":"mon"
     },
     {
-        "nazwa": "tak",
-        "kategoria": "red",
-        "poczatek": "17:00",
-        "koniec": "18:00",
-        "dzien": "wtorek"
+        "nazwa":"Roblox",
+        "kategoria":"green",
+        "poczatek":"19:00",
+        "koniec":"20:30",
+        "dzien":"mon"
     },
     {
-        "nazwa": "tak",
-        "kategoria": "red",
-        "poczatek": "17:00",
-        "koniec": "18:00",
-        "dzien": "sroda"
+        "nazwa":"C++",
+        "kategoria":"yellow",
+        "poczatek":"17:00",
+        "koniec":"18:30",
+        "dzien":"tue"
     },
     {
-        "nazwa": "tak",
-        "kategoria": "green",
-        "poczatek": "17:00",
-        "koniec": "18:00",
-        "dzien": "poniedzialek"
+        "nazwa":"Java",
+        "kategoria":"yellow",
+        "poczatek":"18:00",
+        "koniec":"19:30",
+        "dzien":"tue"
     },
     {
-        "nazwa": "tak",
-        "kategoria": "yellow",
-        "poczatek": "17:00",
-        "koniec": "18:00",
-        "dzien": "czwartek"
+        "nazwa":"Matematyka",
+        "kategoria":"red",
+        "poczatek":"12:00",
+        "koniec":"14:00",
+        "dzien":"wen"
     },
     {
-        "nazwa": "tak",
-        "kategoria": "green",
-        "poczatek": "17:00",
-        "koniec": "18:00",
-        "dzien": "sobota"
+        "nazwa":"C++",
+        "kategoria":"yellow",
+        "poczatek":"17:00",
+        "koniec":"18:30",
+        "dzien":"wen"
     },
     {
-        "nazwa": "tak",
-        "kategoria": "red",
-        "poczatek": "17:00",
-        "koniec": "18:00",
-        "dzien": "sobota"
+        "nazwa":"Fizyka",
+        "kategoria":"red",
+        "poczatek":"18:00",
+        "koniec":"19:30",
+        "dzien":"thu"
+    },
+    {
+        "nazwa":"Python",
+        "kategoria":"yellow",
+        "poczatek":"13:00",
+        "koniec":"15:00",
+        "dzien":"fri"
+    },
+    {
+        "nazwa":"Minecraft",
+        "kategoria":"green",
+        "poczatek":"17:30",
+        "koniec":"19:00",
+        "dzien":"fri"
+    },
+    {
+        "nazwa":"Fizyka",
+        "kategoria":"red",
+        "poczatek":"20:00",
+        "koniec":"22:00",
+        "dzien":"fri"
+    },
+    {
+        "nazwa":"C++",
+        "kategoria":"yellow",
+        "poczatek":"11:00",
+        "koniec":"16:00",
+        "dzien":"sat"
     }
 ]
